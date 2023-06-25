@@ -1,9 +1,9 @@
 /* eslint-disable react/prop-types */
 
-import person1 from "../assets/icons/person1.svg";
-import person2 from "../assets/icons/person2.svg";
-import person3 from "../assets/icons/person3.svg";
-import person4 from "../assets/icons/person4.svg";
+import person1 from "../Assets/Icons/person1.svg";
+import person2 from "../Assets/Icons/person2.svg";
+import person3 from "../Assets/Icons/person3.svg";
+import person4 from "../Assets/Icons/person4.svg";
 
 const Users = ({ users, width, height, offset, overlap }) => {
   const showUsers = users.length > 4 ? users.slice(0, 4) : users;
