@@ -1,12 +1,18 @@
-# **Kanban Clone**
+# **Figma Clone**
 
-<a  href="https://kanban-clone-mercor.netlify.app/">
-<img  width="100%"  height="100%"  src="https://i.ibb.co/jhNch4L/screencapture-localhost-5173-2023-06-19-13-51-07.png"/>
-</a>
+### `Website Link:` []
 
-## About & Features
+### Screen Sizes :
 
-**Kanban** is a popular Lean workflow management method for defining, managing, and improving services that deliver knowledge work.
+![mercorFigma1](https://github.com/kiranwankhade/Mercor_Figma_Clone/assets/49937312/bd3e1851-3c3a-43eb-aab0-e9e70c477da1)
+
+
+![mercorFigma2](https://github.com/kiranwankhade/Mercor_Figma_Clone/assets/49937312/08464799-05e9-4d37-8bce-d80a082525b6)
+
+
+![mercorFigma3](https://github.com/kiranwankhade/Mercor_Figma_Clone/assets/49937312/7fe6560b-ea18-4223-b32b-5b240a1cd6e5)
+
+
 
 ### Front-End Only :
 
@@ -14,4 +20,4 @@
 - **Tailwind CSS**
 - **React Beautiful Drag N Drop**
 
-### `Website Link :` [https://kanban-clone-mercor.netlify.app/](https://kanban-clone-mercor.netlify.app/)
+
