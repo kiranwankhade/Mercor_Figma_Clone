@@ -1,6 +1,5 @@
 /* eslint-disable react/prop-types */
 import { Droppable } from "react-beautiful-dnd";
-// import PropTypes from "prop-types";
 import CreateIcon from "../../Assets/Icons/create.svg";
 import CardItem from "./CardItem";
 
