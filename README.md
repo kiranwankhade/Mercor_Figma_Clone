@@ -1,6 +1,6 @@
 # **Figma Clone**
 
-### `Website Link:` (https://mercor-figma-clone.vercel.app/)
+### `Website Link:` https://mercor-figma-clone.vercel.app/
 
 ### Screen Sizes :
 
