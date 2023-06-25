@@ -8,11 +8,10 @@
 
 **Kanban** is a popular Lean workflow management method for defining, managing, and improving services that deliver knowledge work.
 
-### Front-end Technology :
+### Front-End Only :
 
-- **React**
+- **Vite + React**
 - **Tailwind CSS**
 - **React Beautiful Drag N Drop**
-- **React Props Types Validation**
 
 ### `Website Link :` [https://kanban-clone-mercor.netlify.app/](https://kanban-clone-mercor.netlify.app/)
