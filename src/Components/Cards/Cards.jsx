@@ -6,17 +6,17 @@ import CardList from "./CardList";
 const Cards = () => {
   // for not started
   const [notStartedTodos, setNotStartedTodos] = useState(
-    cardsData[0].toDos.filter((todo) => todo.status === "not started")
+    cardsData.filter((todo) => todo.status === "not started")
   );
 
   // for started
   const [startedTodos, setStartedTodos] = useState(
-    cardsData[0].toDos.filter((todo) => todo.status === "started")
+    cardsData.filter((todo) => todo.status === "started")
   );
 
   // for complete
   const [completedTodos, setCompletedTodos] = useState(
-    cardsData[0].toDos.filter((todo) => todo.status === "completed")
+    cardsData.filter((todo) => todo.status === "completed")
   );
 
   // find the todo while dragging
